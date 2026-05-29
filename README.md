@@ -43,10 +43,11 @@ The difference in the attenuator settings gives the ration of the power coupled 
 Isolation measurement (Tabulation)
 
 Measurement of power division (Tabulation)
+<img width="1077" height="593" alt="image" src="https://github.com/user-attachments/assets/13a729e8-f6d1-4616-a74b-5c0c3c9ed173" />
 
 ## Analysis of Results: (Write your own)
-
 (Include sample calculations/Display/plot/typical graph)
+<img width="1031" height="385" alt="image" src="https://github.com/user-attachments/assets/d1c55b11-4580-4b6d-84d0-3f174e788566" />
 
 ## Conclusions: (Write your Own)
 
@@ -57,3 +58,6 @@ Isolation between E and H arms (dB) = (A1 – A2) dB Coupling between collinear 
 • Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
 
 ## Result:
+The isolation between the E and H arms of the magic tee was successfully measured and found to be within the expected range, indicating proper isolation between the ports. The power division between the collinear arms was observed to be approximately 3 dB, confirming that the magic tee equally divides the input power into two arms with minimal loss. Thus, the magic tee functions effectively as a hybrid junction for power division and signal isolation in microwave systems.
+
+
